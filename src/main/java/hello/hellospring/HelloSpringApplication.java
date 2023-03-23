@@ -11,3 +11,5 @@ public class HelloSpringApplication {
 	}
 
 }
+// 설정에서 gradle intelliJ로 바꿔주면
+// gradle을 통하지 않고 intelliJ 에서 Java를 바로 돌려버려서 빠르다.

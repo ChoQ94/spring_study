@@ -6,10 +6,10 @@ plugins {
 
 group = 'hello'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+sourceCompatibility = '11' // java 11Ver
 
 repositories {
-	mavenCentral()
+	mavenCentral() // 이 공개된 사이트에서 아래 dependecies를 다운받는거임!
 }
 
 dependencies {
